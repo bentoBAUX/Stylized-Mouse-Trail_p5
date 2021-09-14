@@ -33,7 +33,7 @@ for (var i = 0; i < num; i++) {           // Where array_pos + 1 is the oldest a
 }                                         // Following circles are larger as i increases.
 ```
 
-Check out sketch.js for full code.
-Video demo at: TBA
+--------
 
-
+Check out sketch.js for full code. <br/>
+Video demo at: TBA.
